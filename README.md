@@ -55,8 +55,6 @@ Create a new file named `.env.local` in the project:
 NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
 ```
 
-Replace the placeholder values with your actual Liveblocks credentials. You can obtain these credentials by signing up on the [Liveblocks website](https://liveblocks.io).
-
 **Running the Project**
 
 ```bash
