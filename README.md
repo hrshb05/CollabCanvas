@@ -49,7 +49,7 @@ npm install
 
 **Set Up Environment Variables**
 
-Create a new file named `.env.local` in the root of your project and add the following content:
+Create a new file named `.env.local` in the project:
 
 ```env
 NEXT_PUBLIC_LIVEBLOCKS_PUBLIC_KEY=
