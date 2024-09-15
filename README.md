@@ -1,15 +1,13 @@
 <div align="center">
-  <h3 align="center">Fig</h3>
+  <h3 align="center">CollabCanvas</h3>
 
 
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-2. ⚙️ [Tech Stack](#tech-stack)
-4. 🤸 [Quick Start](#quick-start)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🤸 [Quick Start](#quick-start)
 
 
 
